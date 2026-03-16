@@ -6,8 +6,9 @@ Basics of Rectifier and LTSpice circuit with output waveform
 - Converts AC signal to DC signal
 - Input: Vmsin(wt), Vm = 5V
 - Transient analysis time: 5ms
-
-
+<br>
+<br>
+<br>
 <img width="1104" height="765" alt="image" src="https://github.com/user-attachments/assets/3224b15e-ef0c-458d-b0cd-25c8dcc38c66" />
 
 
